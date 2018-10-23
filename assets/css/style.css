@@ -1,0 +1,10 @@
+.image-preview {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin:5px;
+    padding:3px;
+    object-fit: cover;
+
+}
